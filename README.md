@@ -1,9 +1,9 @@
 # 🌟 Welcome to My Cyber Castle! 🌟
 
 ### 👋 About Me
-I am a junior Full-Stack Developer with a passion for building dynamic, user-friendly applications. I wield the power of Python, Django, JS/TS and React to conquer coding challenges and bring ideas to life!
+I am a Full-Stack Developer with a passion for building dynamic, user-friendly applications. I wield the power of Python, Django, JS/TS and React to conquer coding challenges and bring ideas to life!
 
-- 🎮 Fantasy game enthusiast: Dark Souls & Elden Ring are my realms of escape.
+- 🎮 Fantasy game enthusiast: Soulsborne games are my realms of escape.
 - 🌍 Avid traveler in both real and virtual worlds.
 
 ---
