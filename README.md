@@ -8,7 +8,7 @@ My work is deeply rooted in **real production systems**: VPS deployments, CI/CD 
 
 - 🛡️ Main focus: Back-end architecture, APIs, data modeling, DevOps & deployment
 - 🧭 Also experienced in: React + TypeScript front-ends and system integration
-- 🎮 Soulslike and fantasy games enthusiast
+- 🎮 Soulsborne and Monster Hunter games enthusiast
 - 🌍 Traveler of both real and virtual worlds
 
 ---
