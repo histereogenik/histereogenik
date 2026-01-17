@@ -67,10 +67,14 @@ My work is deeply rooted in **real production systems**: VPS deployments, CI/CD 
 
 ---
 
-## 📈 GitHub Stats
+## 🧭 What I Build
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=histereogenik&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=histereogenik&layout=compact&theme=radical)
+- Production-grade REST APIs
+- Subscription & payment systems
+- Multi-role permission platforms
+- Infrastructure-ready systems (Docker, VPS, CI/CD)
+- Secure authentication flows (JWT, refresh tokens, access control)
+- Systems designed for maintainability, scale and auditability
 
 ---
 
